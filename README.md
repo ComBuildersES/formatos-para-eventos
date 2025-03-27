@@ -1,5 +1,5 @@
 # Recopilación de formatos para eventos
-Recopilación de ideas con diferentes formatos para organizar eventos
+Recopilación de ideas con diferentes formatos para organizar eventos: [PPT actual](https://docs.google.com/presentation/d/1PD9rEqv1Gtyjc8BLMEJj8-9GYkPUAq_FAxoEnK5BJjM/edit)
 
 # Contribuciones
 
