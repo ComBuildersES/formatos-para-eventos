@@ -1,5 +1,8 @@
 # Recopilación de formatos para eventos
-Recopilación de ideas con diferentes formatos para organizar eventos: [PPT actual](https://docs.google.com/presentation/d/1PD9rEqv1Gtyjc8BLMEJj8-9GYkPUAq_FAxoEnK5BJjM/edit)
+El objetivo de este proyecto es crear un listado lo más completo posible que ayude a las personas que organizan eventos a encontrar ideas que sirvan de inspiración para hacer cosas diferentes e interesantes para la comunidad.
+
+
+El contenido actualmente se encuentra en [esta PPT](https://docs.google.com/presentation/d/1PD9rEqv1Gtyjc8BLMEJj8-9GYkPUAq_FAxoEnK5BJjM/edit)
 
 # Contribuciones
 
