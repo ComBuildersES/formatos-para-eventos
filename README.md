@@ -6,4 +6,8 @@ El contenido actualmente se encuentra en [esta PPT](https://docs.google.com/pres
 
 # Contribuciones
 
-Acabamos de migrar a GitHub, por favor [revisa los issues](https://github.com/ComBuildersES/formatos-para-eventos/issues?q=sort%3Aupdated-desc+is%3Aissue+is%3Aopen)
+En Community Builders agradecemos las contribuciones de todo el mundo, para saber cómo contribuir:
+
+* Revisa la [guía de contribución de este repositorio](https://github.com/ComBuildersES/formatos-para-eventos/blob/main/CONTRIBUTING.md).
+* Echa un vistazo a los [issues registrados anteriormente](https://github.com/ComBuildersES/formatos-para-eventos/issues?q=sort%3Aupdated-desc+is%3Aissue+is%3Aopen).
+
