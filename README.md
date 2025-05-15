@@ -23,6 +23,7 @@ En Community Builders agradecemos las contribuciones de todo el mundo, para sabe
       <td align="center" valign="top" width="14.28%"><a href="http://deors.wordpress.com"><img src="https://avatars.githubusercontent.com/u/4376867?v=4?s=100" width="100px;" alt="Jorge Hidalgo"/><br /><sub><b>Jorge Hidalgo</b></sub></a><br /><a href="#example-deors" title="Examples">💡</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/anagilamor/"><img src="https://avatars.githubusercontent.com/u/10085811?v=4?s=100" width="100px;" alt="Ana Manosfrias"/><br /><sub><b>Ana Manosfrias</b></sub></a><br /><a href="#ideas-Manosfrias" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://anabuigues.com"><img src="https://avatars.githubusercontent.com/u/592441?v=4?s=100" width="100px;" alt="Ana Buigues"/><br /><sub><b>Ana Buigues</b></sub></a><br /><a href="#ideas-anabuigues" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/astrojuanlu"><img src="https://avatars.githubusercontent.com/u/316517?v=4?s=100" width="100px;" alt="Juan Luis Cano Rodríguez"/><br /><sub><b>Juan Luis Cano Rodríguez</b></sub></a><br /><a href="#ideas-astrojuanlu" title="Ideas, Planning, & Feedback">🤔</a></td>
     </tr>
   </tbody>
 </table>
