@@ -4,10 +4,23 @@ El objetivo de este proyecto es crear un listado lo más completo posible que ay
 
 El contenido actualmente se encuentra en [esta PPT](https://docs.google.com/presentation/d/1PD9rEqv1Gtyjc8BLMEJj8-9GYkPUAq_FAxoEnK5BJjM/edit)
 
-# Contribuciones
+## Contribuciones
 
 En Community Builders agradecemos las contribuciones de todo el mundo, para saber cómo contribuir:
 
 * Revisa la [guía de contribución de este repositorio](https://github.com/ComBuildersES/formatos-para-eventos/blob/main/CONTRIBUTING.md).
 * Echa un vistazo a los [issues registrados anteriormente](https://github.com/ComBuildersES/formatos-para-eventos/issues?q=sort%3Aupdated-desc+is%3Aissue+is%3Aopen).
 
+## Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+Las instrucciones para añadirte o añadir emojis de contribución a tu nombre están [en este *issue*](https://github.com/ComBuildersES/formatos-para-eventos/issues/3). 
