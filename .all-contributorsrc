@@ -1,0 +1,11 @@
+{
+  "projectName": "formatos-para-eventos",
+  "projectOwner": "ComBuildersES",
+  "files": [
+    "README.md"
+  ],
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributorsPerLine": 7,
+  "contributors": []
+}
