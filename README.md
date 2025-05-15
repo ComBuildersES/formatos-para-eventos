@@ -21,6 +21,7 @@ En Community Builders agradecemos las contribuciones de todo el mundo, para sabe
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://www.rauljimenez.info"><img src="https://avatars.githubusercontent.com/u/826965?v=4?s=100" width="100px;" alt="Raul Jimenez Ortega"/><br /><sub><b>Raul Jimenez Ortega</b></sub></a><br /><a href="#projectManagement-hhkaos" title="Project Management">📆</a> <a href="#doc-hhkaos" title="Documentation">📖</a> <a href="#content-hhkaos" title="Content">🖋</a> <a href="#ideas-hhkaos" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://deors.wordpress.com"><img src="https://avatars.githubusercontent.com/u/4376867?v=4?s=100" width="100px;" alt="Jorge Hidalgo"/><br /><sub><b>Jorge Hidalgo</b></sub></a><br /><a href="#example-deors" title="Examples">💡</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/anagilamor/"><img src="https://avatars.githubusercontent.com/u/10085811?v=4?s=100" width="100px;" alt="Ana Manosfrias"/><br /><sub><b>Ana Manosfrias</b></sub></a><br /><a href="#ideas-Manosfrias" title="Ideas, Planning, & Feedback">🤔</a></td>
     </tr>
   </tbody>
 </table>
