@@ -1,3 +1,5 @@
+[![All Contributors](https://img.shields.io/github/all-contributors/ComBuildersES/formatos-para-eventos?color=ee8449&style=flat-square)](#contributors)
+
 # Recopilación de formatos para eventos
 El objetivo de este proyecto es crear un listado lo más completo posible que ayude a las personas que organizan eventos a encontrar ideas que sirvan de inspiración para hacer cosas diferentes e interesantes para la comunidad.
 
