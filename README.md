@@ -13,6 +13,10 @@ En Community Builders agradecemos las contribuciones de todo el mundo, para sabe
 * Revisa la [guía de contribución de este repositorio](https://github.com/ComBuildersES/formatos-para-eventos/blob/main/CONTRIBUTING.md).
 * Echa un vistazo a los [issues registrados anteriormente](https://github.com/ComBuildersES/formatos-para-eventos/issues?q=sort%3Aupdated-desc+is%3Aissue+is%3Aopen).
 
+O a algunas de las tareas por las que podrías empezar a ayudar: 
+
+[![GitHub issues by-label](https://img.shields.io/github/issues/ComBuildersES/formatos-para-eventos/good%20first%20issue)](https://github.com/ComBuildersES/formatos-para-eventos/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
